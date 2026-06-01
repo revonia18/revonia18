@@ -11,7 +11,7 @@ About Me
 
 Tech Stack
 
-HTML • CSS • JavaScript • SQL • Git • GitHub
+HTML • CSS • JavaScript • SQL • GitHub • PHP
 
 What I’m Working On
 
