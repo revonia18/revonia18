@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I’m Revonia 
 
-<!--
-**revonia18/revonia18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCom Information Systems student passionate about technology, learning, and building practical digital solutions.
 
-Here are some ideas to get you started:
+ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I enjoy working on systems, websites, and problem-solving through technology
+* Interested in web development, databases, and software systems
+* Currently improving my skills in programming and data handling
+* Always open to learning new tools and growing my technical abilities
+
+Tech Stack
+
+HTML • CSS • JavaScript • SQL • Git • GitHub
+
+What I’m Working On
+
+* Building personal projects to improve my development skills
+* Practicing web development and database concepts
+* Expanding my knowledge in information systems
+
+Leadership & Experience
+
+* Secretary & Public Relations Officer – International Student Council
+* Secretary – AWS Student Builder Group
+* Mathematics Tutor
+
+ Email: revoniamguni@gmail.com
+
+
+
+> “Learning, building, and growing step by step.”
+
