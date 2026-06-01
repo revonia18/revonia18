@@ -2,7 +2,7 @@ Hi, I’m Revonia
 
 BCom Information Systems student passionate about technology, learning, and building practical digital solutions.
 
- About Me
+About Me
 
 * I enjoy working on systems, websites, and problem-solving through technology
 * Interested in web development, databases, and software systems
@@ -25,9 +25,7 @@ Leadership & Experience
 * Secretary – AWS Student Builder Group
 * Mathematics Tutor
 
- Email: revoniamguni@gmail.com
+Email: revoniamguni@gmail.com
 
 
-
-> “Learning, building, and growing step by step.”
 
