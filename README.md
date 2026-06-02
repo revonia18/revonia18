@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=header&text=Hey%2C%20I'm%20Revonia!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Systems%20Builder%20%7C%20Web%20Dev%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=header&text=Hey%2C%20I'm%20Revonia!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Systems%20Builder%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
 
 > *"Dedicate your hearts"*
 
