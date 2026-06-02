@@ -48,7 +48,7 @@ class Revonia:
 <ol>Building personal projects to improve my development skills</ol>
 <ol>Practicing web development and database concepts</ol>
 <ol>Expanding my knowledge in information systems</ol>
-<ol>Leadership & Experience</ol>
+
 
 
 <div align="center">
