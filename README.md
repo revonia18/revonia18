@@ -58,16 +58,16 @@ class Revonia:
 </div>
 
 
-
-**Secretary & Public Relations Officer** — International Student Council  
-**Secretary** — AWS Student Builder Group  
-**Mathematics Tutor**  
+<ol>Secretary & Public Relations Officer — International Student Council</ol>
+<ol>Secretary — AWS Student Builder Group</ol>
+<ol>Mathematics Tutor</ol>
 
 
 
 <div align="center">
 
 ## Let's Connect
+
 
 <a href="mailto:revoniamguni@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
